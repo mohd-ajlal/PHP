@@ -3,8 +3,7 @@
         return $a + $b;
     }
 
-    echo sum(5, 10);
-
-
-
+    $a = 5;
+    $b = 10;
+    echo sum($a, $b);
 ?>
