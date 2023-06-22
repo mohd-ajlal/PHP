@@ -5,5 +5,4 @@
     echo "<pre>";
     print_r($array_out);
     echo "</pre>";
-
 ?>
